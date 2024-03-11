@@ -41,14 +41,14 @@ The magazine editors have some requested modifications for the database before y
 - How many establishments in each Local Authority area have a hygiene score of 0? Sort the results from highest to lowest, and print out the top ten local authority areas.
     - A:  
 | Local Athority    | Count |
-|---|---|
-|Thanet	            |1130|
-|Greenwich	        |882|
-|Maidstone	        |713|
-|Newham	            |711|
-|Swale	            |686|
-|Chelmsford	        |680|
-|Medway	            |672|
-|Bexley	            |607|
-|Southend-On-Sea    |586|
-|Tendring	        |542|
+|-------------------|-------|
+|Thanet	            |1130   |
+|Greenwich	        |882    |
+|Maidstone	        |713    |
+|Newham	            |711    |
+|Swale	            |686    |
+|Chelmsford	        |680    |
+|Medway	            |672    |
+|Bexley	            |607    |
+|Southend-On-Sea    |586    |
+|Tendring	        |542    |
